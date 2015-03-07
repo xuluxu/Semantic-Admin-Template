@@ -117,7 +117,7 @@ header{
 	float:left;
 	width:180px;
 	height:72px;
-	background: url(../images/logo.png) left center no-repeat;
+	background: url(../images/logo.jpg) left center no-repeat;
 }
 #logo a{
 	display:block;
@@ -206,7 +206,7 @@ header .user{
     color:#333;
 }
 .ui.device.segment .verborder{
-    border-left: 3px solid #007ad5;
+    border-left: 3px solid #2F388D;
 }
 .ui.device.segment p.sensorStatus{
     font-size:14px;
@@ -246,7 +246,7 @@ header .user{
     border-bottom:1px solid rgba(0,0,0,.1);
 }
 .ui.device.segment a.externalUrl {
-    color:#007ad5;
+    color:#2F388D;
 }
 .ui.device.segment .sensorAction{
     margin-top:8px;
